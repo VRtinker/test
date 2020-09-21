@@ -12,8 +12,8 @@ SET TaskerURLLauncherapkname=2-TaskerURL_Launcher
 REM ************************************************************************************************************************************
 REM **********************************************************3-SecureSettings**********************************************************
 REM ************************************************************************************************************************************
-SET SecureSettings_address=https://apkpure.com/secure-settings/com.intangibleobject.securesettings.plugin/download?from=details
-SET SecureSettings_apkname=3-SecureSettings
+SET SecureSettingsaddress=https://apkpure.com/secure-settings/com.intangibleobject.securesettings.plugin/download?from=details
+SET SecureSettingsapkname=3-SecureSettings
 REM ************************************************************************************************************************************
 REM *************************************************************4-AutoApps*************************************************************
 REM ************************************************************************************************************************************
