@@ -112,10 +112,9 @@ SET ReconQuestVLCapkname=22-ReconQuestVLC
 REM ************************************************************************************************************************************
 REM ********************************************************ALVRClient+ALVRServer*******************************************************
 REM ************************************************************************************************************************************
-SET ALVRaddress=https://github.com/JackD83/ALVR/releases/download/ev11/ALVRClient-v2.4.0_experimental_v11.apk
-SET ALVRapkname=ALVRClient
-SET ALVRServeraddress=https://github.com/JackD83/ALVR/releases/latest/download/ALVR.zip
-SET ALVRServerzipname=ALVRServer
+SET ALVRClientaddress=https://github.com/JackD83/ALVR/releases/download/v12.0.0/alvr_client.apk
+SET ALVRServeraddress=http://github.com/JackD83/ALVR/releases/latest
+SET ALVRClientapkname=alvr_client.apk
 REM ************************************************************************************************************************************
 REM ***********************************************************JavaSetup8u231***********************************************************
 REM ************************************************************************************************************************************
